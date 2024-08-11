@@ -44,8 +44,6 @@ npx prisma studio
 yarn start:dev
 ```
 
-## Postman Collection
 
 
 
-### Make sure to read the collection docs which I will sent with this github repo link
