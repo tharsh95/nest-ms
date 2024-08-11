@@ -5,7 +5,6 @@
 
 ## Plena Backend
 
-## Getting Started
 
 ### Step 1: Clone the Repository
 
@@ -43,7 +42,3 @@ npx prisma studio
 ```bash
 yarn start:dev
 ```
-
-
-
-
