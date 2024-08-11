@@ -41,6 +41,6 @@ npx prisma studio
 ```
 ### Step 6:Run the application
 ```bash
-# Using npm
-npm run dev
+yarn start:dev
+
 ```
