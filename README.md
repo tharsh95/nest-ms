@@ -46,6 +46,6 @@ yarn start:dev
 
 ## Postman Collection
 
-https://api.postman.com/collections/13355927-f1616cb8-b6b0-4967-a20b-272502704a71?access_key=PMAT-01J50Q06Y8C2F0YMKVMPDW8V6B
 
-### Make sure to read the collection docs
+
+### Make sure to read the collection docs which I will sent with this github repo link
