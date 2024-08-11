@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   dev-db:
     image: postgres:13
@@ -10,7 +8,6 @@ services:
       POSTGRES_PASSWORD: 123
       POSTGRES_DB: plena
     networks:
-      - pfinance
-
+      - plena
 networks:
-  pfinance:
+  plena:
